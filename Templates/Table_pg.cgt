@@ -1,6 +1,6 @@
 Change log:
 06-11_2021 Postgresql version;
-[[INCLUDE,/git/templates/includes/general.cgt]]
+[[INCLUDE,/git/Templates/Includes/general.cgt]]
 [[BODY]]
 -- TABLE DDL[[LOOP,DATABASE]]
 DROP SCHEMA IF EXISTS <<DATABASE1:L>> CASCADE;[[LOOP,SEQUENCE]]
