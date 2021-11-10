@@ -4,7 +4,7 @@ Change log:
 30-12-2017 - Default value on attribute level.
 04-09-2018 - Sequence to SQ_name.
 10-11-2021 - DBMS independent
-[[INCLUDE,git/templates/includes/general.cgt]][[BODY]]! Cube Database Model
+[[INCLUDE,/git/templates/includes/general.cgt]][[BODY]]! Cube Database Model
 !
 +META_MODEL:CUBE;
 	+META_TYPE:DATABASE|;
